@@ -1,6 +1,6 @@
 # 🩺 Previsão de Diabetes com Machine Learning
 
-🔗 [Abrir no Google Colab](https://colab.research.google.com/drive/1YHgP5kl2ihpAQKg821xf4H6Od66uGx4z#scrollTo=OTBPd-7GPrzQ)
+🔗 [Abrir no Google Colab](https://colab.research.google.com/drive/1dYsvV-DaQcADoyiB5x0JN7OL134xgzyW?usp=sharing)
 
 ---
 
